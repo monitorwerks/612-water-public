@@ -1,4 +1,8 @@
-# Gatsby + Netlify CMS Starter
+# Public website for 612water
+
+> Inspiring, building and growing the next wave of entrepreneurs and delivering the **most** delicious water.
+
+## This site is based on Gatsby + Netlify CMS Starter (info preserved below for now)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
 
